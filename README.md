@@ -1,18 +1,17 @@
-# Ciao, sono Giovanna 👋
+# Hi, I'm Giovanna 👋
 
-PhD computational biologist con focus su genomica microbica e analisi multi-omics.
+PhD computational biologist focused on microbial genomics and multi-omics data analysis.
 
-🔬 **Ora**: Postdoctoral Researcher presso lo Swiss Federal Institute for Forest, Snow and Landscape Research (WSL), Svizzera
-🌱 **Background**: PhD in Plant Genetics (Politecnico delle Marche) — interazioni pianta-pianta, microbioma della rizosfera, genomica delle popolazioni
-🛠️ **Strumenti principali**: R (phyloseq, vegan, DESeq2, lme4, rrBLUP...), Python (Biopython, pandas, scikit-learn), Snakemake, QIIME2
+🔬 **Currently**: Postdoctoral Researcher at the Swiss Federal Institute for Forest, Snow and Landscape Research (WSL), Switzerland
+🌱 **Background**: PhD in Plant Genetics (Polytechnic University of Marche) — plant-plant interactions, rhizosphere microbiome, population genomics
+🛠️ **Core tools**: R (phyloseq, vegan, DESeq2, lme4, rrBLUP...), Python (Biopython, pandas, scikit-learn), Snakemake, QIIME2
 
-## Cosa trovi qui
+## What's here
 
-- 🧬 **[bioinformatics-r-portfolio](https://github.com/Giozanna/bioinformatics-r-portfolio)** — analisi R riproducibili: diversity analysis, differential abundance, modelli misti, RDA, GWAS
-- 🐍 **[bioinformatics-snakemake-pipeline](https://github.com/Giozanna/bioinformatics-snakemake-pipeline)** — pipeline Snakemake poliglotta (Python + R) per QC e analisi di dati di sequenziamento amplicon
+- 🧬 **[bioinformatics-r-portfolio](https://github.com/Giozanna/bioinformatics-r-portfolio)** — reproducible R analyses: diversity analysis, differential abundance, mixed models, RDA, GWAS
+- 🐍 **[bioinformatics-snakemake-pipeline](https://github.com/Giozanna/bioinformatics-snakemake-pipeline)** — polyglot Snakemake pipeline (Python + R) for QC and analysis of amplicon sequencing data
 
-## Contatti
+## Contact
 
 - LinkedIn: [giovanna-lanzavecchia](https://www.linkedin.com/in/giovanna-lanzavecchia-6b2577135/)
 - Email: giovanna.lanzavecchia93@gmail.com
-
