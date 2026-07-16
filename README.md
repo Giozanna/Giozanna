@@ -1,16 +1,18 @@
-## Hi there 👋
+# Ciao, sono Giovanna 👋
 
-<!--
-**Giozanna/Giozanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD computational biologist con focus su genomica microbica e analisi multi-omics.
 
-Here are some ideas to get you started:
+🔬 **Ora**: Postdoctoral Researcher presso lo Swiss Federal Institute for Forest, Snow and Landscape Research (WSL), Svizzera
+🌱 **Background**: PhD in Plant Genetics (Politecnico delle Marche) — interazioni pianta-pianta, microbioma della rizosfera, genomica delle popolazioni
+🛠️ **Strumenti principali**: R (phyloseq, vegan, DESeq2, lme4, rrBLUP...), Python (Biopython, pandas, scikit-learn), Snakemake, QIIME2
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Cosa trovi qui
+
+- 🧬 **[bioinformatics-r-portfolio](https://github.com/Giozanna/bioinformatics-r-portfolio)** — analisi R riproducibili: diversity analysis, differential abundance, modelli misti, RDA, GWAS
+- 🐍 **[bioinformatics-snakemake-pipeline](https://github.com/Giozanna/bioinformatics-snakemake-pipeline)** — pipeline Snakemake poliglotta (Python + R) per QC e analisi di dati di sequenziamento amplicon
+
+## Contatti
+
+- LinkedIn: [giovanna-lanzavecchia](https://www.linkedin.com/in/giovanna-lanzavecchia-6b2577135/)
+- Email: giovanna.lanzavecchia93@gmail.com
+
