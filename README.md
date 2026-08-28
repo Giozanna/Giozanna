@@ -11,6 +11,7 @@ PhD computational biologist focused on microbial genomics and multi-omics data a
 - 🧬 **[bioinformatics-r-portfolio](https://github.com/Giozanna/bioinformatics-r-portfolio)** — reproducible R analyses: diversity analysis, differential abundance, mixed models, RDA, GWAS
 - 🐍 **[bioinformatics-snakemake-pipeline](https://github.com/Giozanna/bioinformatics-snakemake-pipeline)** — polyglot Snakemake pipeline (Python + R) for QC and analysis of amplicon sequencing data
 - 🧪 **[metabolomics-pipeline-demo](https://github.com/Giozanna/metabolomics-pipeline-demo)** — untargeted LC-MS/MS metabolomics pipeline (Python): QC, PCA & clustering, differential abundance, pathway enrichment
+- 🌻 **[sunburst-taxonomy-tutorial](https://github.com/Giozanna/sunburst-taxonomy-tutorial)** — R tutorial: interactive taxonomy sunburst charts from QIIME2-style data, with a live [chart](https://giozanna.github.io/sunburst-taxonomy-tutorial/output/sunburst_demo.html) and [Shiny app](https://giozanna.shinyapps.io/sunburst-taxonomy-tutorial/) demo
 
 ## Contact
 
