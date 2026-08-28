@@ -10,6 +10,7 @@ PhD computational biologist focused on microbial genomics and multi-omics data a
 
 - 🧬 **[bioinformatics-r-portfolio](https://github.com/Giozanna/bioinformatics-r-portfolio)** — reproducible R analyses: diversity analysis, differential abundance, mixed models, RDA, GWAS
 - 🐍 **[bioinformatics-snakemake-pipeline](https://github.com/Giozanna/bioinformatics-snakemake-pipeline)** — polyglot Snakemake pipeline (Python + R) for QC and analysis of amplicon sequencing data
+- 🧪 **[metabolomics-pipeline-demo](https://github.com/Giozanna/metabolomics-pipeline-demo)** — untargeted LC-MS/MS metabolomics pipeline (Python): QC, PCA & clustering, differential abundance, pathway enrichment
 
 ## Contact
 
